@@ -13,3 +13,10 @@ Venkat brings more than 20 years of technology leadership experience working in 
 Venkat holds bachelor’s degree from Osmania University and Master of Business Administration from Andhra University. He enjoys vegetable gardening, hiking and cycling. He also enjoys DIY home automation using emerging technologies.
 
 
+## Badges
+
+![Certified Kubernetes Application Developer](https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png)
+![Certified TARS Application Developer](https://training.linuxfoundation.org/wp-content/uploads/2021/06/Training_Badges_TARS-300x300.png)
+![Certified Java Programmer from Sun](https://www.logolynx.com/images/logolynx/s_f9/f93be9f100b8db1369321835fdd94efd.jpeg)
+
+![https://www.scrumalliance.org/certifications/practitioners/cspo-certification](https://www.scrumalliance.org/_scrum/images/badges300x300/active/SA_badge_cspo.png)
